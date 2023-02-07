@@ -1,0 +1,39 @@
+
+h1{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight:900;
+    
+}
+*{
+    border: solid
+}
+.header{
+    background-color: #00ffff;
+    display:flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+.menu{
+    background-color: #f700ff;
+    margin-right: 100px ;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 50px
+}
+.footer {
+    display:flex;
+    flex-direction:column;
+    justify-content:right;
+    background-color: crimson;
+  }
+
+body{
+ background-color: #808080;
+}
+
+
+
